@@ -28,9 +28,9 @@ int main()
 
     gfg g;
 
-    int x = 6;
+    int x = 9;
 
-    unsigned int y = 3;
+    unsigned int y = 8;
 
     cout << "The result is : "<<g.power(x, y);
 
